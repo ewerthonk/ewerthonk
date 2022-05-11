@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="https://github.com/ewerthonk/ewerthonk/blob/main/presentation.gif?raw=true"/>
 
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
