@@ -1,4 +1,22 @@
-<img src="https://github.com/ewerthonk/ewerthonk/blob/main/hi.gif" width="400px" />
+<img src="https://github.com/ewerthonk/ewerthonk/blob/main/hi.gif" width="500px" />
+
+#### I am a Data Science Learner from **Parana, Brazil** 🇧🇷.
+
+🧑🏻‍🏫 Learning Data Science @ [Let's Code](https://letscode.com.br). \
+💡 Always looking for **Innovation** . \
+🧐 Enthusiast of Data-Driven **Problem Solving** and **Scientific Method**. \
+⚙️ I love to **learn** and Strive to deliver **Excellence**. \
+
+🧑🏻‍🎓 Bachelor's Degree in Production Engineering with an emphasis in **Software** @ [UEM](http://www.dep.uem.br/index.php?option=com_content&view=article&id=57&Itemid=131). \
+🇮🇹 Worked as Volunteer @ "Teaching the Future!" Project, in Italy. \
+🧑🏼‍💻 Working as SAP Analyst @ [TCS](https://www.tcs.com).
+
+❤️ Passionate about:
+  - Soccer.
+  - Tennis.
+  - Formula 1
+
+
 
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
