@@ -8,14 +8,14 @@
 ⚙️ I love to **learn** and Strive to Deliver **Excellence**.
 
 🧑🏻‍🎓 Bachelor's Degree in Production Engineering with an emphasis in **Software** @ [UEM](http://www.dep.uem.br/index.php?option=com_content&view=article&id=57&Itemid=131). \
-🇮🇹 Worked as Volunteer @ "Teaching the Future!" Project, in Italy. \
+🇮🇹 Worked as Volunteer @ Teach the Future! Project, in Italy. \
 🧑🏼‍💻 Working as SAP Analyst @ [TCS](https://www.tcs.com).
 
 📖 Reading is a passion. Last favorite book is [A Gentleman in Moscow](https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190). \
 ⚽️ Favorite hobby: Sports. soccer ([Santos](https://www.santosfc.com.br) Supporter), tennis (Federer is the 🐐); volleybal, basketball, and formula 1. \
 📺 Favorite Movie/Series: The Count of Monte Cristo/House of Cards.
 
-📫 Feel welcome to reach me on [Likedin](https://www.linkedin.com/in/ewerthonkutz/?locale=en_US).
+📫 Feel welcome to reach me on [Linkedin](https://www.linkedin.com/in/ewerthonkutz/?locale=en_US).
 
 🗂️ Highlight Projects
 
