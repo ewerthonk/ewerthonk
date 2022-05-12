@@ -5,7 +5,7 @@
 🧑🏻‍🏫 Studying Data Science @ [Let's Code](https://letscode.com.br). \
 💡 Always looking for **Innovation**. \
 🧐 Enthusiast of Data-Driven **Problem Solving** and **Scientific Method**. \
-⚙️ I love to **learn** and Strive to Deliver **Excellence**. \
+⚙️ I love to **learn** and Strive to Deliver **Excellence**.
 
 🧑🏻‍🎓 Bachelor's Degree in Production Engineering with an emphasis in **Software** @ [UEM](http://www.dep.uem.br/index.php?option=com_content&view=article&id=57&Itemid=131). \
 🇮🇹 Worked as Volunteer @ "Teaching the Future!" Project, in Italy. \
