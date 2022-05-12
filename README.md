@@ -2,46 +2,39 @@
 
 #### I am a Data Science Learner from **Parana, Brazil** 🇧🇷.
 
-🧑🏻‍🏫 Learning Data Science @ [Let's Code](https://letscode.com.br). \
-💡 Always looking for **Innovation** . \
+🧑🏻‍🏫 Studying Data Science @ [Let's Code](https://letscode.com.br). \
+💡 Always looking for **Innovation**. \
 🧐 Enthusiast of Data-Driven **Problem Solving** and **Scientific Method**. \
-⚙️ I love to **learn** and Strive to deliver **Excellence**. \
+⚙️ I love to **learn** and Strive to Deliver **Excellence**. \
 
 🧑🏻‍🎓 Bachelor's Degree in Production Engineering with an emphasis in **Software** @ [UEM](http://www.dep.uem.br/index.php?option=com_content&view=article&id=57&Itemid=131). \
 🇮🇹 Worked as Volunteer @ "Teaching the Future!" Project, in Italy. \
 🧑🏼‍💻 Working as SAP Analyst @ [TCS](https://www.tcs.com).
 
-❤️ Passionate about:
-  - Soccer.
-  - Tennis.
-  - Formula 1
+📖 Reading is a passion. Last favorite book is [A Gentleman in Moscow](https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190). \
+⚽️ Favorite hobby: Sports. soccer ([Santos](https://www.santosfc.com.br) Supporter), tennis (Federer is the 🐐); volleybal, basketball, and formula 1. \
+📺 Favorite Movie/Series: The Count of Monte Cristo/House of Cards.
 
+📫 Feel welcome to reach me on [Likedin](https://www.linkedin.com/in/ewerthonkutz/?locale=en_US).
 
+🗂️ Highlight Projects
 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://github.com/ewerthon/ML-wine-quality">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ewerthonk&repo=ML-wine-quality&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
 </a>
 
-<!--
-**ewerthonk/ewerthonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/ewerthon/dataviz-olympics">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ewerthonk&repo=dataviz-olympics&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+</a>
 
-Here are some ideas to get you started:
+\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⛰ Favorite Quote
+> Restless learners change the world.
+> 
+> -- <cite>EdX</cite>
+>
+> Also
+> 
+> <img src="https://pbs.twimg.com/media/EaAfr6lXsAIg5p5?format=jpg&name=4096x4096" width="300px" />
+
