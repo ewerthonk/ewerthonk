@@ -19,11 +19,11 @@
 
 🗂️ Highlight Projects
 
-<a href="https://github.com/ewerthon/ML-wine-quality">
+<a href="https://github.com/ewerthonk/dataviz-olympics">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ewerthonk&repo=ML-wine-quality&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
 </a>
 
-<a href="https://github.com/ewerthon/dataviz-olympics">
+<a href="https://github.com/ewerthonk/ML-wine-quality">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ewerthonk&repo=dataviz-olympics&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
 </a> 
 
