@@ -12,7 +12,7 @@
 🧑🏼‍💻 Working as SAP Analyst @ [TCS](https://www.tcs.com).
 
 📖 Reading is a passion. Last favorite book is [A Gentleman in Moscow](https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190). \
-⚽️ Favorite hobby: Sports. soccer ([Santos](https://www.santosfc.com.br) Supporter), tennis (Federer is the 🐐); volleybal, basketball, and formula 1. \
+⚽️ Favorite hobby: Sports. Soccer ([Santos](https://www.santosfc.com.br) Supporter), tennis (Federer is the 🐐); volleybal, basketball, and formula 1. \
 📺 Favorite Movie/Series: The Count of Monte Cristo/House of Cards.
 
 📫 Feel welcome to reach me on [Linkedin](https://www.linkedin.com/in/ewerthonkutz/?locale=en_US).
