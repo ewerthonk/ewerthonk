@@ -1,6 +1,7 @@
 <img src="https://github.com/ewerthonk/ewerthonk/blob/main/hi.gif" width="500px" />
 
-#### I am a Data Science Learner from **Parana, Brazil** 🇧🇷.
+🇧🇷 I am a Data Science Learner from **Parana, Brazil**. \
+📫 Feel welcome to reach me on [Linkedin](https://www.linkedin.com/in/ewerthonkutz/?locale=en_US).
 
 🧑🏻‍🏫 Studying Data Science @ [Let's Code](https://letscode.com.br). \
 💡 Always looking for **Innovation**. \
@@ -15,7 +16,7 @@
 ⚽️ Favorite hobby: Sports. Soccer ([Santos](https://www.santosfc.com.br) Supporter), tennis (Federer is the 🐐); volleybal, basketball, and formula 1. \
 📺 Favorite Movie/Series: The Count of Monte Cristo/House of Cards.
 
-📫 Feel welcome to reach me on [Linkedin](https://www.linkedin.com/in/ewerthonkutz/?locale=en_US).
+
 
 ⛰ Favorite Quote
 > Restless learners change the world.
