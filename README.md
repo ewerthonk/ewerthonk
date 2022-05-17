@@ -1,6 +1,6 @@
 <img src="https://github.com/ewerthonk/ewerthonk/blob/main/hi.gif" width="500px" />
 
-🇧🇷 I am a Data Science Learner from **Parana, Brazil**. \
+🇧🇷 I am a Data Science Learner from **Londrina, Brazil**. \
 📫 Feel welcome to reach me on [Linkedin](https://www.linkedin.com/in/ewerthonkutz/?locale=en_US).
 
 🧑🏻‍🏫 Studying Data Science @ [Let's Code](https://letscode.com.br). \
