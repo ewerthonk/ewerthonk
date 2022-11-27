@@ -24,6 +24,22 @@
         <span>Python</span><br><br>
         <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
+      <td width="20%" align="center">
+        <span>Python</span><br><br>
+        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Python</span><br><br>
+        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Python</span><br><br>
+        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Python</span><br><br>
+        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
     </tr>
   </tbody>
 </table>
