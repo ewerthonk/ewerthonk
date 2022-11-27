@@ -25,31 +25,19 @@
         <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Python</span><br><br>
         <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>pandas</span><br><br>
         <img height="32px" src="https://pandas.pydata.org/static/img/pandas.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>NumPy</span><br><br>
         <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
       </td>
-      <td width="25%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
-      </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>NumPy</span><br><br>
         <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
       </td>
