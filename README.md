@@ -20,25 +20,21 @@
 <table>
   <tbody>
     <tr valign="top">
-       <td width="20%" align="center">
+       <td width="25%" align="center">
         <span>Python</span><br><br>
         <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <span>Scikit-Learn</span><br><br>
         <img height="32px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
       </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <span>Keras</span><br><br>
         <img height="32px" src="https://keras.io/img/logo.png">
       </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <span>Pandas</span><br><br>
         <img height="32px" src="https://pandas.pydata.org/static/img/pandas.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Numpy</span><br><br>
-        <img height="32px" src="https://numpy.org/images/logo.svg">
       </td>
     </tr>
   </tbody>
