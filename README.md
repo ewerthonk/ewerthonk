@@ -47,20 +47,20 @@
         <img height="64px" src="https://plotly.com/all_static/images/icon-dash.png">
       </td>
       <td width="20%" align="center">
-        <span>Scikit-Learn</span><br><br>
-        <img height="64px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
+        <span>Matplotlib</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png">
       </td>
       <td width="20%" align="center">
-        <span>Keras</span><br><br>
-        <img height="64px" src="https://keras.io/img/logo.png">
+        <span>Seaborn</span><br><br>
+        <img height="64px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
       </td>
       <td width="20%" align="center">
-        <span>Pandas</span><br><br>
-        <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
+        <span>Feature-engine</span><br><br>
+        <img height="64px" src="https://feature-engine.readthedocs.io/en/latest/_images/FeatureEngine.png">
       </td>
       <td width="20%" align="center">
-        <span>Numpy</span><br><br>
-        <img height="64px" src="https://numpy.org/images/logo.svg">
+        <span>AWS</span><br><br>
+        <img height="64px" src="https://yt3.ggpht.com/ytc/AMLnZu9BB7k3jVVzN5ZNKzKQhbkdl80vfA1E7S8clu84Hg=s900-c-k-c0x00ffffff-no-rj">
       </td>
     </tr>
   </tbody>
