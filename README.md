@@ -43,8 +43,8 @@
     </tr>
     <tr valign="top">
        <td width="20%" align="center">
-        <span>Python</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span>Plotly</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.pngt">
       </td>
       <td width="20%" align="center">
         <span>Scikit-Learn</span><br><br>
