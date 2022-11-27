@@ -44,7 +44,7 @@
     <tr valign="top">
        <td width="20%" align="center">
         <span>Plotly</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.pngt">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png">
       </td>
       <td width="20%" align="center">
         <span>Scikit-Learn</span><br><br>
