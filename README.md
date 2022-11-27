@@ -37,6 +37,22 @@
         <span>NumPy</span><br><br>
         <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
       </td>
+      <td width="25%" align="center">
+        <span>NumPy</span><br><br>
+        <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>NumPy</span><br><br>
+        <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>NumPy</span><br><br>
+        <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>NumPy</span><br><br>
+        <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
