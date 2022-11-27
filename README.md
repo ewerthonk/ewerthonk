@@ -24,72 +24,9 @@
         <span>Python</span><br><br>
         <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      </td>
-      <td width="20%" align="center">
-        <span>Python</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>pandas</span><br><br>
-        <img height="32px" src="https://pandas.pydata.org/static/img/pandas.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>    <tr valign="top">
-       <td width="20%" align="center">
-        <span>Python</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      </td>
-      <td width="20%" align="center">
-        <span>Python</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>pandas</span><br><br>
-        <img height="32px" src="https://pandas.pydata.org/static/img/pandas.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>    <tr valign="top">
-       <td width="20%" align="center">
-        <span>Python</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      </td>
-      <td width="20%" align="center">
-        <span>Python</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>pandas</span><br><br>
-        <img height="32px" src="https://pandas.pydata.org/static/img/pandas.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
     </tr>
   </tbody>
 </table>
-
-
 
 ⛰ Favorite Quote
 > Restless learners change the world.
