@@ -44,7 +44,7 @@
     <tr valign="top">
        <td width="20%" align="center">
         <span>Plotly</span><br><br>
-        <img height="64px" src="https://plotly.com/all_static/images/graphing_library.svg">
+        <img height="64px" src="https://plotly.com/all_static/images/icon-dash.png">
       </td>
       <td width="20%" align="center">
         <span>Scikit-Learn</span><br><br>
