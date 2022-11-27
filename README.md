@@ -35,11 +35,11 @@
       </td>
       <td width="20%" align="center">
         <span>NumPy</span><br><br>
-        <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
+        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="20%" align="center">
         <span>NumPy</span><br><br>
-        <img height="32px" src="https://numpy.org/images/logos/numpy.svg">
+        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
     <tr valign="top">
