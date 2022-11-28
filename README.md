@@ -30,7 +30,7 @@
       </td>
       <td width="20%" align="center">
         <span>Keras</span><br><br>
-        <img height="64px" src="https://keras.io/img/logo.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png">
       </td>
       <td width="20%" align="center">
         <span>Pandas</span><br><br>
@@ -61,6 +61,29 @@
       <td width="20%" align="center">
         <span>AWS</span><br><br>
         <img height="64px" src="https://yt3.ggpht.com/ytc/AMLnZu9BB7k3jVVzN5ZNKzKQhbkdl80vfA1E7S8clu84Hg=s900-c-k-c0x00ffffff-no-rj">
+      </td>
+    </tr>
+    </tr>
+    <tr valign="top">
+       <td width="20%" align="center">
+        <span>SQL</span><br><br>
+        <img height="64px" src="https://seeklogo.com/images/A/azure-sql-logo-3AE930D2AF-seeklogo.com.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Databricks</span><br><br>
+        <img height="64px" src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png">
+      </td>
+      <td width="20%" align="center">
+        <span>PySpark</span><br><br>
+        <img height="64px" src="https://miro.medium.com/max/1400/1*qgkjkj6BLVS1uD4mw_sTEg.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Excel</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Agile</span><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/scrumorg-1.svg">
       </td>
     </tr>
   </tbody>
