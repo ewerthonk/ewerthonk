@@ -1,9 +1,9 @@
 <img src="https://github.com/ewerthonk/ewerthonk/blob/main/hi.gif" width="500px" />
 
-🚩 I am a Data Science Learner from **Londrina, Brazil**. \
+🚩 I am a Data Scientist @ [Ionic Health](https://www.ionic.health) from **Londrina, Brazil**. \
 📫 Feel welcome to reach me on [Linkedin](https://www.linkedin.com/in/ewerthonkutz/?locale=en_US).
 
-🏫 Studying Data Science @ [Ada Tech](https://ada.tech). \
+🏫 Studied Data Science @ [Ada Tech](https://ada.tech). \
 💡 Always looking for **Innovation**. \
 🧐 Enthusiast of Data-Driven **Problem Solving** and **Scientific Method**. \
 ⚙️ I love to **learn** and Strive to Deliver **Excellence**.
