@@ -16,7 +16,6 @@
 ⚽️ Favorite hobby: Sports. Soccer ([Santos](https://www.santosfc.com.br) supporter), Tennis (Federer is the 🐐); Volleybal, Basketball, and Formula 1. \
 📺 Favorite Movie: The Count of Monte Cristo.
 
-  \
 
 🧰 Skills
 <table>
@@ -91,7 +90,6 @@
   </tbody>
 </table>
 
-  \
 
 ⛰ Favorite Quote
 > Restless learners change the world.
