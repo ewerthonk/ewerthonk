@@ -17,6 +17,7 @@
 📺 Favorite Movie: The Count of Monte Cristo.
 
 <br/>
+<br/>
 
 🧰 Skills
 <table>
@@ -91,6 +92,7 @@
   </tbody>
 </table>
 
+<br/>
 <br/>
 
 ⛰ Favorite Quote
