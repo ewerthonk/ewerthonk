@@ -10,10 +10,10 @@
 🎓 Bachelor's Degree in Production Engineering with an emphasis in **Software** @ [UEM](http://www.dep.uem.br/index.php?option=com_content&view=article&id=57&Itemid=131). \
 🚩 Worked as Volunteer @ Teach the Future! Project, in Italy. \
 💻 Worked as SAP Analyst @ [TCS](https://www.tcs.com). \
-💻 Worked as Proejcts Director and Consultant @ [Dinamica Consulting (Junior Enterprise)]((https://www.dinamicaej.com.br)).
+📅 Worked as Project Director and Consultant @ [Dinamica Consulting (Junior Enterprise)]((https://www.dinamicaej.com.br)).
 
 📖 Reading is a passion. Most recent favorite book is [A Gentleman in Moscow](https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190). \
-⚽️ Favorite hobby: Sports. Soccer ([Santos](https://www.santosfc.com.br) Supporter), Tennis (Federer is the 🐐); Volleybal, Basketball, and Formula 1. \
+⚽️ Favorite hobby: Sports. Soccer ([Santos](https://www.santosfc.com.br) supporter), Tennis (Federer is the 🐐); Volleybal, Basketball, and Formula 1. \
 📺 Favorite Movie: The Count of Monte Cristo.
 
 🧰 Skills
