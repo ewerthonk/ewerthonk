@@ -1,5 +1,5 @@
-🚩 I am a Data Scientist @ [Ionic Health](https://www.ionic.health) from **Londrina, Brazil**. \
-📫 Feel welcome to reach me on [Linkedin](https://www.linkedin.com/in/ewerthonkutz/?locale=en_US).
+🚩 I am a **Data & AI Engineer** @ Minsait and a Master's Student in Artificial Intelligence from **Londrina, Brazil**. 
+📫 Feel welcome to reach me on [LinkedIn](https://www.linkedin.com/in/ewerthonkutz/?locale=en_US)[.
 
 💡 Always looking for opportunities to build **innovative** and **scalable** solutions. \
 🧐 Enthusiast of data-driven **problem solving** and **scientific method** as a tool to generate **competitive advantage**. \
@@ -16,7 +16,6 @@
 
 <br/>
 
-⛰ Favorite Quote
-> Restless learners change the world.
-> 
+> **Favorite Quote**
+> "Restless learners change the world." 
 > -- <cite>EdX</cite>
